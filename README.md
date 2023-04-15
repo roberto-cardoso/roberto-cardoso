@@ -1,4 +1,4 @@
-### Olá, pessoal! Me chamo Roberto Cardoso 👋🤓
+### Olá, pessoal! Me chamo Roberto Costa 👋🤓
 
 - 👨‍💻 Hoje eu estagio com análise de dados
 - 💻 Estou aprendendo Python com foco em Data Science
