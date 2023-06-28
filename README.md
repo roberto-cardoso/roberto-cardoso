@@ -1,4 +1,4 @@
-### Olá, pessoal! Me chamo Roberto Costa 👋🤓
+### Olá, pessoal! Me chamo Roberto Cardoso 👋🤓
 
 - 👨‍💻 Hoje eu trabalho como Assistente de Dados
 - 💻 Foco em Python para Data Science
