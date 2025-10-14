@@ -1,6 +1,6 @@
 ### Olá, pessoal! Me chamo Roberto Cardoso 👋🤓
 
-- 💻 Foco em Python para Data Science
-- ⚡ Estou cursando Ciência da Computação (8/8) (sim, falta pouco 😄)
+- ⚡ Ciência da Computação 👨‍💻
+- 💻 Foco em Python para Data Science 
 - 🥳 O HTML, por enquanto, é só por diversão
 - 😄 O Javascript também
